@@ -1,0 +1,30 @@
+
+  .container-fluid  {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    margin: 1em;
+  }
+
+  .steps{
+    width: 850px;
+    padding-left: 30px;
+  }
+   .logo{
+     color: rgb(175, 69, 55);
+   }
+  .name {
+    background-color: green;
+  }
+  .paragraph {
+    width: 850px;
+    padding-left: 30px;
+  }
+  .form {
+    width: 850px;
+    align-self: center;
+  }
+  .button {
+    margin: 1em;
+
+  }
